@@ -1,5 +1,6 @@
 streamlit
+streamlit-lottie
 streamlit-extras
-pandas
-numpy
+# pandas
+# numpy
 cryptography
